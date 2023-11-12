@@ -1,0 +1,24 @@
+{
+  "name": "self-dividing-numbers",
+  "version": "1.0.0",
+  "description": "Self dividing numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/drjseifu1991/Self-dividing-numbers.git"
+  },
+  "keywords": [
+    "Self",
+    "dividing",
+    "number"
+  ],
+  "author": "Dereje Seifu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drjseifu1991/Self-dividing-numbers/issues"
+  },
+  "homepage": "https://github.com/drjseifu1991/Self-dividing-numbers#readme"
+}
